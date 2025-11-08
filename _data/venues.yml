@@ -1,9 +1,19 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"ArXiv":
+  url: https://arxiv.org/
+  color: "#6c757d"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"TPAMI":
+  url: https://www.computer.org/csdl/journal/tp
+  color: "#0055b8"
 
-"Vision":
-  color: "#009f36"
+"NeurIPS":
+  url: https://nips.cc/
+  color: "#ff7f0e"
+
+"AAAI":
+  url: https://aaai.org/
+  color: "#1e4d2b"
+
+"CVPR":
+  url: https://cvpr.thecvf.com/
+  color: "#1f77b4"

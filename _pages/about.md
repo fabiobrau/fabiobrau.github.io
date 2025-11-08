@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 02377,Building M</p>
-    <p>Via Marengo, 2 – 09123 </p>
-    <p>Cagliari, Italy </p>
+    <p>Email: fabio.brau@unica.it</p>
+    <p>Addr: Via Marengo, 2, 09123 </p>
+    <p>City: Cagliari, Italy </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
