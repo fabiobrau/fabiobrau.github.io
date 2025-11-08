@@ -9,7 +9,7 @@ last_name: Brau
 contact_note: >
   Drop me an email if you want to get in touch!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Fabio Brau's personal webpage.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords:  # add your own keywords or leave empty
