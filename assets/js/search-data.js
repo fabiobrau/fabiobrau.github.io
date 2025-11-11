@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-blog",
-          title: "blog",
+          title: "Blog",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-re-arranging-a-song-for-piano",
+        
+          title: "Re-arranging a song for piano",
+        
+        description: "I spent some time in re-arranging an italian song during the weekend, chilly moments..",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/stelle/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -431,6 +442,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-my-web-page-is-online-it-s-still-messy-will-be-ready-soon-smile",
           title: 'My web page is online! It’s still messy, will be ready soon :smile:...',
+          description: "",
+          section: "News",},{id: "news-star-the-paper-som-directions-are-better-than-one-has-been-accepted-to-aaai-26-star-congrats-to-giorgio-piras-and-raffaele-mura",
+          title: ':star: The paper SOM Directions are better than one has been accepted to...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
