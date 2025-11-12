@@ -72,9 +72,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-re-arranging-a-song-for-piano",
+            },{id: "post-re-arranging-a-song-from-piano-on-guitar",
         
-          title: "Re-arranging a song for piano",
+          title: "Re-arranging a song from piano on guitar",
         
         description: "I spent some time in re-arranging an italian song during the weekend, chilly moments..",
         section: "Posts",
