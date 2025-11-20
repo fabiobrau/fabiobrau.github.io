@@ -72,18 +72,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-re-arranging-a-song-from-piano-on-guitar",
-        
-          title: "Re-arranging a song from piano on guitar",
-        
-        description: "I spent some time in re-arranging an italian song during the weekend, chilly moments..",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/stelle/";
-          
-        },
-      },{id: "post-a-post-with-plotly-js",
+            },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
