@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "Blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "Publications",
           description: "Selected scientific publications",
           section: "Navigation",
@@ -43,6 +36,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
+          },
+        },{id: "nav-seminars",
+          title: "Seminars",
+          description: "Slides and materials from tutorials and talks.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/seminars/";
           },
         },{id: "nav-teaching",
           title: "teaching",
@@ -427,6 +427,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-star-the-paper-som-directions-are-better-than-one-has-been-accepted-to-aaai-26-star-congrats-to-giorgio-piras-and-raffaele-mura",
           title: ':star: The paper SOM Directions are better than one has been accepted to...',
+          description: "",
+          section: "News",},{id: "news-loudspeaker-the-slides-of-the-tutorial-on-from-evasion-to-jailbreak-adversarial-machine-learning-in-the-age-of-llms-held-with-raffaele-mura-at-taic-are-now-available-on-the-seminars-page",
+          title: ':loudspeaker: The slides of the Tutorial on “From Evasion to Jailbreak: Adversarial Machine...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
