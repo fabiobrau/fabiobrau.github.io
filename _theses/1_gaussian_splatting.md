@@ -29,6 +29,10 @@ keywords:
 
 Pixel-wise image representation is the undisputed standard: fast, intuitive, and GPU-friendly. This project explores **Gaussian Splatting (GS)** as a structured, equivariant alternative to pixels. Because GS has clean geometric structure, it admits a natural metric and supports architectures that respect its symmetries (shifting, rotation, and zoom). A student joining this project would work at the intersection of image representation and geometric deep learning, building the GS representation and equivariant models that operate directly on it.
 
+<div style="text-align: center; margin-bottom: 1.5rem;">
+  {% include figure.liquid path="assets/img/theses/gaussian_splatting.gif" class="img-fluid rounded" max-width="50%" avoid_scaling=true cache_bust=true caption="This image has been deduced by fitting 2240 gaussians with 200 Adam iterations. Compression rate is 0.105." %}
+</div>
+
 ## What you would work on
 
 Depending on your level and interest, you would take on one (or a sequence) of the objectives below. They are ordered from most accessible to most challenging, and each one builds on the previous: *representation → its symmetries → a metric on those symmetries → architectures honoring the metric.* This means the project can be entered at the right level for a Bachelor's, Master's, or PhD student, and a strong student can carry it further.
