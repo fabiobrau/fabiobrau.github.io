@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-theses",
+          title: "Theses",
+          description: "Thesis proposals for Master and Ph.D. students. Click a card to read the full proposal. If you are interested, feel free to drop me an email.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/theses/";
+          },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
@@ -486,6 +493,11 @@ ninja.data = [{
           description: "Cybersecurity for AI-augmented systems",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sec4ai4sec/";
+            },},{id: "theses-equivariant-image-representation-via-gaussian-splats",
+          title: 'Equivariant Image Representation via Gaussian Splats',
+          description: "Exploration of Gaussian Splatting as an alternative to pixel-wise image representation.",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/1_gaussian_splatting/";
             },},{
         id: 'social-email',
         title: 'email',
