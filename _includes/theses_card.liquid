@@ -1,0 +1,28 @@
+<div class="col mb-4">
+  <a href="{{ thesis.url | relative_url }}">
+    <div class="card h-100 hoverable">
+      {% if thesis.img %}
+        <img
+          src="{{ thesis.img | relative_url }}"
+          class="card-img-top"
+          alt="{{ thesis.title | escape }}"
+          style="width: 50%; height: auto; display: block; margin: 0 auto;"
+        />
+      {% endif %}
+      <div class="card-body">
+        <h5 class="card-title">{{ thesis.title }}</h5>
+        {% if thesis.description %}
+          <p class="card-text">{{ thesis.description }}</p>
+        {% endif %}
+        {% if thesis.level %}
+          <span class="badge bg-secondary">{{ thesis.level }}</span>
+        {% endif %}
+        {% if thesis.keywords %}
+          {% for kw in thesis.keywords %}
+            <span class="badge bg-primary">{{ kw }}</span>
+          {% endfor %}
+        {% endif %}
+      </div>
+    </div>
+  </a>
+</div>

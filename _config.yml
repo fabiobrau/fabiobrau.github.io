@@ -150,6 +150,9 @@ collections:
     output: true
   projects:
     output: true
+  theses:
+    output: true
+    permalink: /theses/:path/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
