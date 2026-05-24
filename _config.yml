@@ -7,7 +7,7 @@ first_name: Fabio
 middle_name: ""
 last_name: Brau
 contact_note: >
-  Drop me an email if you want to get in touch!
+  Drop me an email to get in touch!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Fabio Brau's personal webpage.
 footer_text: >
