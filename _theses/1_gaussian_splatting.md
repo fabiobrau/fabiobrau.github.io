@@ -2,7 +2,7 @@
 layout: page
 title: "Equivariant Image Representation via Gaussian Splats"
 description: Exploration of Gaussian Splatting as an alternative to pixel-wise image representation.
-img: /assets/img/theses/gaussian_splatting.gif
+img: /assets/img/theses/gaussian_splatting.png
 level: Master Thesis
 importance: 1
 keywords:
@@ -30,7 +30,7 @@ keywords:
 Pixel-wise image representation is the undisputed standard: fast, intuitive, and GPU-friendly. This project explores **Gaussian Splatting (GS)** as a structured, equivariant alternative to pixels. Because GS has clean geometric structure, it admits a natural metric and supports architectures that respect its symmetries (shifting, rotation, and zoom). A student joining this project would work at the intersection of image representation and geometric deep learning, building the GS representation and equivariant models that operate directly on it.
 
 <div style="text-align: center; margin-bottom: 1.5rem;">
-  {% include figure.liquid path="assets/img/theses/gaussian_splatting.gif" class="img-fluid rounded" max-width="50%" avoid_scaling=true cache_bust=true caption="This image has been deduced by fitting 2240 gaussians with 200 Adam iterations. Compression rate is 0.105." %}
+  {% include figure.liquid path="assets/img/theses/gaussian_splatting.png" class="img-fluid rounded" max-width="80%" avoid_scaling=true cache_bust=true caption="This image has been deduced by fitting 1500 gaussians to a 512×512 image. Compression rate is (1500·8)/(512·512·3) ≈ 0.015." %}
 </div>
 
 ## What you would work on
