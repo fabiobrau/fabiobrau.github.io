@@ -504,6 +504,11 @@ ninja.data = [{
           description: "Exploration of Gaussian Splatting as an alternative to pixel-wise image representation.",
           section: "Theses",handler: () => {
               window.location.href = "/theses/1_gaussian_splatting/";
+            },},{id: "theses-robustness-against-adversarial-kernel-perturbations",
+          title: 'Robustness against Adversarial Kernel Perturbations',
+          description: "A structured family of convolutional adversarial perturbations, their certifiable robustness, and mitigation strategies.",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/2_adversarial_kernel_perturbations/";
             },},{
         id: 'social-email',
         title: 'email',
