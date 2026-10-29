@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:star: Our paper *Latent-space Attacks for Refusal Evasion in Language Models* has been accepted at [NeurIPS 2026](/publications/)! :star: Huge congratulations to **Giorgio Piras** and **Raffaele Mura**!
+:star: Our paper *Latent-space Attacks for Refusal Evasion in Language Models* has been accepted at [NeurIPS 2026](/publications/)! :star: See you in Sydney! :australia: Huge congratulations to **Giorgio Piras** and **Raffaele Mura**!
