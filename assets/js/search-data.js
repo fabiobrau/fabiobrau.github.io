@@ -130,7 +130,7 @@ ninja.data = [{
           section: "News",},{id: "news-star-our-paper-out-of-distribution-detection-for-continual-learning-design-principles-and-benchmarking-has-been-accepted-in-the-international-journal-of-computer-vision-star-huge-congratulations-to-srishti-gupta-for-leading-the-work",
           title: ':star: Our paper Out-of-Distribution Detection for Continual Learning: Design Principles and Benchmarking has...',
           description: "",
-          section: "News",},{id: "news-star-our-paper-latent-space-attacks-for-refusal-evasion-in-language-models-has-been-accepted-at-neurips-2026-star-huge-congratulations-to-giorgio-piras-and-raffaele-mura",
+          section: "News",},{id: "news-star-our-paper-latent-space-attacks-for-refusal-evasion-in-language-models-has-been-accepted-at-neurips-2026-star-see-you-in-sydney-australia-huge-congratulations-to-giorgio-piras-and-raffaele-mura",
           title: ':star: Our paper Latent-space Attacks for Refusal Evasion in Language Models has been...',
           description: "",
           section: "News",},{id: "projects-project-1",
