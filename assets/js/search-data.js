@@ -183,6 +183,11 @@ ninja.data = [{
           description: "A COMPREHENSIVE TRUSTWORTHY FRAMEWORK FOR CONNECTED MACHINE LEARNING AND SECURE INTERCONNECTED AI SOLUTIONS",
           section: "Projects",handler: () => {
               window.location.href = "/projects/coevolution/";
+            },},{id: "projects-latentshield",
+          title: 'LatentShield',
+          description: "Protecting Large Language Models from Prompt Injection in Latent Space",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/latentshield/";
             },},{id: "projects-sec4ai4sec",
           title: 'Sec4AI4Sec',
           description: "Cybersecurity for AI-augmented systems",
