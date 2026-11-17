@@ -676,6 +676,14 @@ footer.sticky-bottom {
     img {
       width: 100%;
     }
+
+    // uniform logo area regardless of the logo's aspect ratio
+    .card-img-top {
+      height: 180px;
+      object-fit: contain;
+      padding: 1rem;
+      background-color: #fff;
+    }
   }
 
   .col {
